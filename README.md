@@ -1,4 +1,4 @@
-# 💫 About Me: Welcome to my legal case study repository. As an aspiring medical lawyer, I use this space to explore and analyse a range of law cases: focusing on healthcare, ethics, and criminal justice. Each project reflects my effort to deepen my understanding of legal reasoning, case outcomes, and the broader implications for policy and practice. This page serves as both a learning journal and a showcase of my growing analytical skills in the legal field.
+# 💫 About Me: Welcome to my legal case study repository. As an aspiring medical lawyer, I use this space to explore and analyse a range of law cases: focusing on healthcare, ethics, and criminal justice.
 
 🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently studying LLB International Law and Globalisation <br>💬 Ask me about<br>⚡ Fun fact: Volunteered at RSPCA as a Cattery Assistant <br> Projects:
 
