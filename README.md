@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyaamina03@gmail.com) 
+- 📫 How to reach me: diyaamina03@gmail.com
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=diyaamina&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=diyaamina&theme=dark&hide_border=false)<br/>
