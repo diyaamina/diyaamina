@@ -1,4 +1,5 @@
-# 💫 About Me: I’m an aspiring medical lawyer with a strong interest in healthcare ethics, patient advocacy, and legal reform.With a passion for critical thinking and a commitment to making a meaningful impact, I’m building the skills needed to lead in this complex and vital field.
+# 💫 About Me: Welcome to my legal case study repository. As an aspiring medical lawyer, I use this space to explore and analyse a range of law cases: focusing on healthcare, ethics, and criminal justice. Each project reflects my effort to deepen my understanding of legal reasoning, case outcomes, and the broader implications for policy and practice. This page serves as both a learning journal and a showcase of my growing analytical skills in the legal field.
+
 🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently studying LLB International Law and Globalisation <br>💬 Ask me about<br>⚡ Fun fact: Volunteered at RSPCA as a Cattery Assistant <br> Projects:
 
 
