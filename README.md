@@ -1,5 +1,5 @@
 # 💫 About Me: I’m an aspiring medical lawyer with a strong interest in healthcare ethics, patient advocacy, and legal reform.With a passion for critical thinking and a commitment to making a meaningful impact, I’m building the skills needed to lead in this complex and vital field.
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning International Law and Globalisation <br>💬 Ask me about<br>⚡ Fun fact: Volunteered at RSPCA as a Cattery Assistant <br> Projects:
+🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently studying LLB International Law and Globalisation <br>💬 Ask me about<br>⚡ Fun fact: Volunteered at RSPCA as a Cattery Assistant <br> Projects:
 
 
 ## 🌐 Socials:
