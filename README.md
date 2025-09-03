@@ -1,6 +1,6 @@
 # ⭐ About Me: Welcome to my legal case study repository. As an aspiring medical lawyer, I use this space to explore and analyse a range of law cases: focusing on healthcare, ethics, and criminal justice.
 
-⚖️ I’m currently working on Karen Spellman's 2024 case <br> 🗺️ I’m looking to collaborate & connect through internship placement, work experience, or volunteering towards any cause and more <br>🤝 I'm seeking opportunities to network with law firms and their teams <br>🌱 I’m currently studying LLB International Law and Globalisation as a first year undergraduate <br>💬 Ask me about anything and feel free to email! <br> 🐈 Fun fact: Volunteered at RSPCA as a Cattery Assistant <br> 👨‍💻 Projects: https://github.com/diyaamina/Projects
+⚖️ I’m currently working on Karen Spellman's 2024 case <br> 🗺️ I’m looking to collaborate & connect through internship placement, work experience, or volunteering towards any cause and more <br>🤝 I'm actively seeking opportunities to network with Law firms and their teams <br>🌱 I’m currently studying LLB International Law and Globalisation as a first year undergraduate <br>💬 Ask me about anything and feel free to email! <br> 🐈 Fun fact: Volunteered at RSPCA as a Cattery Assistant <br> 💼 Projects: https://github.com/diyaamina/Projects
 
 
 ## 🌐 Socials:
